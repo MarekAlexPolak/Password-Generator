@@ -17,15 +17,15 @@ In order to use this simply go to the website: https://marekalexpolak.github.io/
 
 Click the large red button in the middle of the screen that says "Generate Password" 
 
-![alt text](/Assets/Images/Button.PNG)
+![Picture of Button](/Assets/Images/Button.PNG)
 
 Then follow the prompts in order to set your password criteria
 
-![alt text](/Assets/Images/Prompts.PNG)
+![Picture of Prompts](/Assets/Images/Prompts.PNG)
 
 Finally your password will be displayed in the middle of the screen in the textbox as shown in the image below.
 
-![alt text](/Assets/Images/Textbox.PNG)
+![Picture of Textbox](/Assets/Images/Textbox.PNG)
 
 
 
