@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-In order to use this simply go to the website:
+In order to use this simply go to the website: https://marekalexpolak.github.io/Password-Generator/
 
 Click the large red button in the middle of the screen that says "Generate Password" 
 
