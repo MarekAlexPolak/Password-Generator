@@ -17,15 +17,15 @@ In order to use this simply go to the website:
 
 Click the large red button in the middle of the screen that says "Generate Password" 
 
-![alt text](Assets/Images/Button.png)
+![alt text](/Assets/Images/Button.png)
 
 Then follow the prompts in order to set your password criteria
 
-![alt text](Assets/Images/Prompts.png)
+![alt text](/Assets/Images/Prompts.png)
 
 Finally your password will be displayed in the middle of the screen in the textbox as shown in the image below.
 
-![alt text](Assets/Images/Textbox.png)
+![alt text](/Assets/Images/Textbox.png)
 
 
 
